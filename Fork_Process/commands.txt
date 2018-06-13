@@ -1,0 +1,14 @@
+1) cp [options] source destination
+	-copies files and directories from source to destination
+2) grep [options] pattern file
+	-searches files for match of pattern and outputs them to terminal
+3) fg [%job_id]
+	-places a job in the foreground
+4) gedit filename &
+	-opens specified file in current directory into gedit without suspending terminal process
+5) ps [options]
+	-displays current processes
+6) top
+	-displays dynamic real time view of a running system including summary information as well as a list of processes or threads
+7) tar -xvf file.tar
+	-extracts files from the specified filename and gives a list of the files extracted
