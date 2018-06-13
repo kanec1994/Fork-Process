@@ -1,7 +1,0 @@
-1) cp [options] source destination
-	-copies files and directories from source to destination
-2) grep [options] pattern file
-	-searches files for match of pattern and outputs them to terminal
-3) fg [%job_id]
-	-places a job in the foregroun
-
